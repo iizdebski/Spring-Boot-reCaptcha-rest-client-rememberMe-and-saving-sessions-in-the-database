@@ -1,4 +1,1 @@
-# sweater
-
-Video 6. Lets Code SpringBoot Jpa Hibernate OneToMany
-
+# sweater Video 13. Spring Boot: reCaptcha, rest client, rememberMe and sessions saving in the database
