@@ -1,3 +1,5 @@
  Ctrl + Alt + O - Not used imports
 
 validate  - instead of creation or validation Hibernate will simply check the correctness of data
+
+Cntrl + Shift + F9 - reload of a particular class or interface
